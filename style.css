@@ -1,0 +1,12 @@
+#marqueeStyle {
+    font-size: 25px;
+    color: goldenrod;
+    font-family: cursive;
+}
+marquee {
+    background-color: darkblue;
+}
+#video {
+    width: 100%;
+    height: 100%;
+}
