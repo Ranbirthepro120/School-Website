@@ -1,0 +1,81 @@
+body{
+    font-family: georgia;
+    background: linear-gradient (navy 0% , goldenrod 100%)
+}
+#marqueeStyle {
+    font-size: 25px;
+    color: goldenrod;
+    font-family: cursive;
+}
+marquee {
+    background-color: darkblue;
+}
+#video {
+    width: 100%;
+    height: 100%;
+}
+h2 {
+  text-shadow: 3px 3px goldenrod;
+  font-size: 30px;
+  color: navy;
+  font-family: arial-black;
+  font-variant: small-caps;
+}
+    .travel_mainDiv {
+        text-align: center;
+    }
+#foot {
+    width: 440px;
+    height: 275;
+}
+#foot2 {
+    width: 440px;
+    height: 275
+}
+#achievementsID {
+    padding-bottom: 10px;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i {
+    float: right;
+}
+.movie_text span {
+    color: darkblue;
+}
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.travel_mainDiv {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7
+}
+.travel_mainDiv img{
+    width: 100%;
+    height: 300px;
+}
+.travel_mainDiv hr{
+    width: 100%;
+}
+.text success {
+    font-size: 40px
+}
+#achievementsID1 {
+    padding-bottom: 10px;
+}
+h3 {
+    
+}
+.img-responsive{
+    size:300px
+}
